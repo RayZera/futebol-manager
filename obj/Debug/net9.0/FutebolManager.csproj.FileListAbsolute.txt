@@ -1,0 +1,17 @@
+c:\Users\renas\FutebolManager\bin\Debug\net9.0\FutebolManager.exe
+C:\Users\renas\FutebolManager\bin\Debug\net9.0\FutebolManager.deps.json
+C:\Users\renas\FutebolManager\bin\Debug\net9.0\FutebolManager.runtimeconfig.json
+c:\Users\renas\FutebolManager\bin\Debug\net9.0\FutebolManager.dll
+c:\Users\renas\FutebolManager\bin\Debug\net9.0\FutebolManager.pdb
+c:\Users\renas\FutebolManager\bin\Debug\net9.0\Newtonsoft.Json.dll
+c:\Users\renas\FutebolManager\obj\Debug\net9.0\FutebolManager.csproj.AssemblyReference.cache
+c:\Users\renas\FutebolManager\obj\Debug\net9.0\FutebolManager.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\renas\FutebolManager\obj\Debug\net9.0\FutebolManager.AssemblyInfoInputs.cache
+c:\Users\renas\FutebolManager\obj\Debug\net9.0\FutebolManager.AssemblyInfo.cs
+c:\Users\renas\FutebolManager\obj\Debug\net9.0\FutebolManager.csproj.CoreCompileInputs.cache
+C:\Users\renas\FutebolManager\obj\Debug\net9.0\FutebolM.1AAD7AE3.Up2Date
+c:\Users\renas\FutebolManager\obj\Debug\net9.0\FutebolManager.dll
+c:\Users\renas\FutebolManager\obj\Debug\net9.0\refint\FutebolManager.dll
+c:\Users\renas\FutebolManager\obj\Debug\net9.0\FutebolManager.pdb
+C:\Users\renas\FutebolManager\obj\Debug\net9.0\FutebolManager.genruntimeconfig.cache
+C:\Users\renas\FutebolManager\obj\Debug\net9.0\ref\FutebolManager.dll

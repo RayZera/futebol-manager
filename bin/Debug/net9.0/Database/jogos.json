@@ -1,0 +1,72 @@
+[
+  {
+    "Id": "1fbdf51d-c723-4a4f-b421-d22fbbbf7acb",
+    "TimeCasa": "fla",
+    "TimeVisitante": "pal",
+    "Data": "2025-06-19T15:30:00",
+    "InteressadosIds": []
+  },
+  {
+    "Id": "a876d800-a647-4eb0-9288-765260ee3312",
+    "TimeCasa": "flamengo",
+    "TimeVisitante": "palmeiras",
+    "Data": "2025-09-12T12:30:00",
+    "InteressadosIds": []
+  },
+  {
+    "Id": "d7521039-dfe2-43d6-8d3d-d148c654b143",
+    "TimeCasa": "fla",
+    "TimeVisitante": "palmeiras",
+    "Data": "2025-09-12T15:30:00",
+    "InteressadosIds": []
+  },
+  {
+    "Id": "b0c3289f-91ed-4fff-846a-11d09709250d",
+    "TimeCasa": "fla",
+    "TimeVisitante": "palmeiras",
+    "Data": "2025-09-12T18:00:00",
+    "InteressadosIds": []
+  },
+  {
+    "Id": "6e919fb3-2dd2-461a-8486-525aefad9fc9",
+    "TimeCasa": "flamengo",
+    "TimeVisitante": "palmeiras",
+    "Data": "2025-09-12T12:30:00",
+    "InteressadosIds": []
+  },
+  {
+    "Id": "3ec8ff7f-97df-4b99-9918-2acecc43a2e7",
+    "TimeCasa": "fla",
+    "TimeVisitante": "pal",
+    "Data": "2025-09-12T12:30:00",
+    "InteressadosIds": []
+  },
+  {
+    "Id": "a16c4433-a606-43c7-9000-fd7f73dfd9d3",
+    "TimeCasa": "fla",
+    "TimeVisitante": "palmeiras",
+    "Data": "2025-09-12T12:30:00",
+    "InteressadosIds": []
+  },
+  {
+    "Id": "26438bee-4e9a-4eab-b92b-229518ee8ae6",
+    "TimeCasa": "flamengo",
+    "TimeVisitante": "palmeiras",
+    "Data": "2005-09-12T12:30:00",
+    "InteressadosIds": []
+  },
+  {
+    "Id": "1dd73cb6-4564-4bb9-af76-f18a0efa97ab",
+    "TimeCasa": "Flamengo",
+    "TimeVisitante": "Palmeiras",
+    "Data": "2025-09-12T12:30:00",
+    "InteressadosIds": []
+  },
+  {
+    "Id": "945cac98-fe58-42cd-bd63-5c0fdcd0ddc1",
+    "TimeCasa": "casa",
+    "TimeVisitante": "casa",
+    "Data": "2025-09-12T12:23:00",
+    "InteressadosIds": []
+  }
+]
