@@ -21,10 +21,9 @@ while (true)
     Console.WriteLine("4 - Adicionar Jogo");
     Console.WriteLine("5 - Listar Times");
     Console.WriteLine("6 - Remover Time");
-    Console.WriteLine("7 - Registrar Interesse em Jogo");
-    Console.WriteLine("8 - Registrar Partida");
-    Console.WriteLine("9 - Adicionar Jogador a um Time");
-    Console.WriteLine("10 - Tabela de Pontos");
+    Console.WriteLine("7 - Registrar Partida");
+    Console.WriteLine("8 - Adicionar Jogador a um Time");
+    Console.WriteLine("9 - Tabela de Pontos");
     Console.WriteLine("0 - Sair");
     Console.Write("Escolha: ");
     var opcao = Console.ReadLine();
@@ -150,31 +149,8 @@ while (true)
             Console.ReadKey();
             break;
 
-            /* ---------- 7. Registrar Partida ---------- */
-case "7":
-    timeService.Listar();
-    Console.Write("ID do Time A: ");
-    int idTimeA = int.Parse(Console.ReadLine()!);
-
-    Console.Write("ID do Time B: ");
-    int idTimeB = int.Parse(Console.ReadLine()!);
-
-    var partida = partidaService.CriarPartida(idTimeA, idTimeB, "");
-
-    Console.Write("Gols do Time A: ");
-    int golsA = int.Parse(Console.ReadLine()!);
-
-    Console.Write("Gols do Time B: ");
-    int golsB = int.Parse(Console.ReadLine()!);
-
-    partidaService.RegistrarResultado(partida.Id, golsA, golsB, timeService);
-
-    Console.WriteLine("Partida registrada!");
-    Console.ReadKey();
-    break;
-
 /* ---------- 8. Registrar Partida ---------- */
-case "8":
+case "7":
 {
     timeService.Listar();
 
@@ -201,7 +177,7 @@ case "8":
 
 
 /* ---------- 9. Adicionar Jogador a um Time ---------- */
-case "9":
+case "8":
 {
     var listaJogadores = jogadorService.ObterTodos();
     jogadorService.Listar(); // mostra [índice] + dados
@@ -241,7 +217,7 @@ case "9":
 }
 
     /* ---------- 10. Tabela de Pontos ---------- */
-case "10":
+case "9":
     var tabela = timeService.ObterTodos()
                  .OrderByDescending(t => t.Pontos)
                  .ThenByDescending(t => t.Vitorias);
