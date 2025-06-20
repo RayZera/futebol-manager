@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "Id": "1",
+    "Nome": "Carlos Silva",
+    "Idade": 25,
+    "Posicao": "Atacante"
+  },
+  {
+    "Id": "2",
+    "Nome": "Ana Pereira",
+    "Idade": 22,
+    "Posicao": "Goleiro"
+  }
+]
